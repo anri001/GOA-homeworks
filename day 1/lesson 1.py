@@ -74,5 +74,18 @@ right(90)
 forward(40)
 end_fill()
 
+penup()
+goto(0,0)
+pendown()
+
+color("green")
+
+begin_fill()
+left(90)
+forward(380)
+left(90)
+forward(350)
+left(90)
+forward(700)
 
 exitonclick()
