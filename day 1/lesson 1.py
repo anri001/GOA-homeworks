@@ -86,6 +86,14 @@ forward(380)
 left(90)
 forward(350)
 left(90)
-forward(700)
+forward(755)
+left(90)
+forward(350)
+left(90)
+forward(180)
+end_fill()
+
+
+
 
 exitonclick()
