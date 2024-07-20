@@ -1,0 +1,5 @@
+n1 = input("the first number")
+n2 = input("the second number")
+print(n1 > n2)
+ending = print(n1 > n2)
+print(type(ending))
