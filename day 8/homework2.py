@@ -8,5 +8,3 @@ print("what do you like", likes)
 
 
 
-
-
