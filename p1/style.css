@@ -1,0 +1,21 @@
+#par {
+    background-color: black;
+    color: red;
+    font-size: 20px;
+}
+.paragraps {
+    color: green;
+    font-size: 30px;
+}
+#par1 {
+    background-color: black;
+}
+h2 {
+    color: yellow;
+}
+.h22 {
+    color: blue;
+}
+#h222 {
+    color: chocolate;
+}
