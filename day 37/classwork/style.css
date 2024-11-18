@@ -1,0 +1,18 @@
+.p1{
+    text-decoration: underline red;
+    color: greenyellow;
+}
+.p2{
+    text-decoration: overline;
+}
+.p3{
+    text-decoration: line-through;
+}
+a{
+    text-decoration: none;
+    color: #ffff;
+    transition: 0.5s;
+}
+a:hover{
+    color: blue;
+}

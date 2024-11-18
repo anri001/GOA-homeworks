@@ -1,0 +1,1 @@
+#rgb and hex change colors the pros are that with hex and rgb we ca change colors and the cons are that there are to many ways to use them 

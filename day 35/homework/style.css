@@ -1,0 +1,15 @@
+.th{
+    border: 3px solid;
+}
+.th1{
+    border: 3px dotted;
+}
+.table1{
+    text-align: center;
+}
+.HOP{
+    border-collapse: separate;
+}
+.HOP2{
+    border-collapse: collapse;
+}

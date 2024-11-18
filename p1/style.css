@@ -19,3 +19,17 @@ h2 {
 #h222 {
     color: chocolate;
 }
+#bear {
+    border: 4px solid red;
+    box-shadow: 2px 2px 2px black;
+    width: 400px;
+    border-radius: 20px;
+    
+}
+#bear:hover{
+    width: 200px;
+    transition: 1s;
+}
+#bear:active{
+    width: 300px;
+}

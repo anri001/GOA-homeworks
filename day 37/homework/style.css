@@ -1,0 +1,36 @@
+.p1{
+    text-decoration: underline;
+}
+.p2{
+    text-decoration: overline;
+}
+.p3{
+    text-decoration: line-through;
+}
+.p4{
+    font-size: 15px;
+}
+.p5{
+    font-size: 20px;
+}
+.p6{
+    font-size: 25px;
+}
+.p7{
+    color: rgb(255, 0, 0);
+}
+.p8{
+    color: rgb(0, 255, 0);
+}
+.p9{
+    color: rgb(0, 0, 255);
+}
+.p10{
+    color: #ff0000;
+}
+.p11{
+    color: #00ff00;
+}
+.p12{
+    color: #0000ff;
+}

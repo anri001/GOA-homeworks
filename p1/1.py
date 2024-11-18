@@ -3,3 +3,4 @@ def calc(k):
         print(k)
 
 calc(input("enter name:"))
+calc(input("enter name:"))
